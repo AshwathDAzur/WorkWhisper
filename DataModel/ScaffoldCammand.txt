@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=PSILENL154;Database=NewWorkWhisper;Trusted_Connection=true;Encrypt=false;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
