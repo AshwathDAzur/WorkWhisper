@@ -12,3 +12,5 @@ start the client server
 
 
 <img width="959" alt="1" src="https://github.com/AshwathDAzur/WorkWhisper/assets/133746692/77f8adcf-d767-40c0-9f30-c74be24cb9f0">
+<img width="960" alt="2" src="https://github.com/AshwathDAzur/WorkWhisper/assets/133746692/d301de30-70ce-4520-8a91-ed2043e3b7a4">
+<img width="960" alt="6" src="https://github.com/AshwathDAzur/WorkWhisper/assets/133746692/faea08d8-1f40-4e7e-a75a-a10ad37d785f">
