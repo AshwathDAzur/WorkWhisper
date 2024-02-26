@@ -3,3 +3,9 @@ Built on a modern technology stack, the app utilizes ASP.NET Web API for its rob
 SQL Server Management Studio (SSMS) for secure and efficient data storage. 
 Leveraging an array of React libraries, Work Whisper delivers an enhanced and intuitive interface, ensuring seamless interactions and optimized workflows within the workplace.
 In order to enhance the UI/UX Material UI is used and for effect state management, React Redux toolkit is used.
+
+Clone the repo
+Restore the database by using "WorkWhisper.bak" file
+run npm install commands
+run the backend server
+start the client server
