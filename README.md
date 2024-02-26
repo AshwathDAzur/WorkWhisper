@@ -9,3 +9,6 @@ Restore the database by using "WorkWhisper.bak" file
 run npm install commands
 run the backend server
 start the client server
+
+
+<img width="959" alt="1" src="https://github.com/AshwathDAzur/WorkWhisper/assets/133746692/77f8adcf-d767-40c0-9f30-c74be24cb9f0">
